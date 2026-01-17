@@ -1,2 +1,2 @@
-# Aston_Martin
-Frontend Development Portfolio Project - Aston Martin UI Clone This project demonstrates modern frontend development skills including: • Vanilla JavaScript DOM manipulation • CSS Grid/Flexbox layouts • Animation libraries (GSAP) • Responsive web design principles • Interactive UI/UX patterns
+# Aston_martin
+Interactive Aston Martin vehicle showcase with category filtering, detailed modals, and smooth animations. Responsive design built with HTML, CSS, and JavaScript.
